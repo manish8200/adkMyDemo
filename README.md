@@ -1,2 +1,0 @@
-# adkMyDemo
-Student Data
